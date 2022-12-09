@@ -13,7 +13,7 @@ Los archivos que contienen la información inicial se pueden encontrar en la car
 
 ## **Desarrollo del Proyecto**
 
-Los datos se ingestaron y se realizaron los siguientes cambios:
+Los datos se ingestaron y se procesaron en el archivo EDA.ipynb, se realizaron los siguientes cambios:
 
 + Se eliminó la fila de show_id: Esta fila era solo un índice. 
 
@@ -56,7 +56,7 @@ La Api cuenta con 4 funciones:
 + Actor que más se repite según plataforma y año
     "/get_actor/{plataforma}&{anio}" Ejemplo: https://catalogplatfor-prod-movies-and-shows-catalog-pzd8ie.mo2.mogenius.io/get_actor/netflix&2018
 
-    
+
 
 
 
