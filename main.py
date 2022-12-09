@@ -3,7 +3,7 @@
 import pandas as pd
 import numpy as np
 from fastapi import FastAPI
-
+import Levenshtein
 
 # Cargamos los datos extraidos con EDA.ipynb
 
